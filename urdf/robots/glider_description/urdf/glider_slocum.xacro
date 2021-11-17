@@ -56,7 +56,7 @@
       <inertial>
         <mass value="${mass}"/>
         <origin xyz="0 0 0" rpy="0 0 0" />
-        <inertia ixx="30.0" ixy="0" ixz="0" iyy="0.6" iyz="0" izz="5.0" />
+        <inertia ixx="525.39" ixy="1.44" ixz="33.41" iyy="794.20" iyz="2.6" izz="691.23"/>
       </inertial>
     </link>
 
